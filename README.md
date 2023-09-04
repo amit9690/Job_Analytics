@@ -79,7 +79,10 @@ Other specific insights of this job vacancies dashboard :
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/1b656cbe-8965-450f-be92-36006c65eac1)
 
+
+
 Different Pivots created in Backend for required KPIs:
+
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/214e4261-7463-4224-8640-6d3fd14ea6b1)
 
