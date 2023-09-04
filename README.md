@@ -34,33 +34,6 @@ step - 3 :
 
 5. SQL Queries: To extract meaningful information from the structured data, MySQL queries were employed. These queries allowed the team to answer critical questions and discover trends within the job vacancies dataset.
 
-* all Mysql queries insights related to this dataset :
-
-(i) Generate some insights with top 10 highest job generated sectors in IT field.
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/b9de2eeb-3d22-4128-9c8c-9403c215b337)
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/f7416c95-c567-4fe0-bb37-2869d71d274a)
-
-(ii) What is the total number of jobs in software sector  as compared to marketing sectors ?
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/27a020e4-4f4f-403d-b5b9-e10765148c25)
-
-(iii) Generate some insights with top 10 highest job generated Locations in IT field.
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/55ccdd01-4c02-432c-981e-fb601f1906b5)
-
-(iv) Count the number of jobs across different locations with in different sectors.
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/88ecdf2f-2ace-450e-a38f-3ffc1a5a301d)
-
-(v) How many Frontened engineer jobs are there in bangalore as compared to data analyst jobs in bangalore ?
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/38b05f5f-7fef-434a-89a2-8753a8987a00)
-
-(vi) Give insights about how many comapnies are there with comparision with company size  ?
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/15593924-dd5b-45d3-87e0-c5d8eedce27e)
-
 
 6. Excel Dashboard: The culmination of the project was the creation of an Excel dashboard specifically tailored to visualize job vacancies data. This dashboard provided an intuitive and user-friendly interface to explore the project's findings, making it accessible to a wider audience. This dashboard created using pivot table , power query and charts and graphs.
 
@@ -68,35 +41,6 @@ step - 3 :
 Demo : 
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/f3eb99f5-c27b-4ac2-8c47-a2cd0dab6b33)
-
-
-Other specific insights of this job vacancies dashboard :
-
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/cd273124-781c-4eb3-a784-b9d893a9b770)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/c36f6a14-2404-4683-9f62-194bdd4d76ff)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/8e3e606e-21f1-42bc-9dbc-0f9efbc14de1)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/d4b607ea-d8e9-426d-82f6-ac8dd78b52c0)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/1b656cbe-8965-450f-be92-36006c65eac1)
-
-
-
-Different Pivots created in Backend for required KPIs:
-
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/214e4261-7463-4224-8640-6d3fd14ea6b1)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/d5b31bbd-e4a9-47f3-a52c-6046b3db3b62)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/58fc0a79-fe54-4049-b9fc-8099af976806)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/2e442a38-165e-47c7-91ef-fc5fecc5fb5d)
-
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/a6b60031-3597-45b1-8dd5-f4b81dc6b243)
 
 
 Project Impact:
