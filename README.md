@@ -41,7 +41,7 @@ step - 3 :
 
 ### 4. Data Modeling 📊 : To organize and structure the data effectively, the team created three key tables: jobs, company, and details. This data modeling step streamlined the analysis process, enabling efficient extraction of insights.
 
-#### **I done step-2, step-3 and step-4 using power query in excel.**
+* ### __I done step-2, step-3 and step-4 using power query in excel.__
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/3353e06a-d192-4a1e-995f-f86e0565b61f)
 
@@ -74,7 +74,7 @@ We extend our sincere gratitude to Manish Hemnani for his invaluable mentorship 
 This project is a testament to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into job vacancies and market trends.
 
 
-__For more interesting insights read the ppt file 📜__ : https://shorturl.at/tCDFS
+* #### __For more interesting insights read the ppt file 📜__ : https://shorturl.at/tCDFS
 
 
 Thank You for visiting my project page.
