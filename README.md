@@ -67,7 +67,7 @@ Conclusion 🚀📈🔍:
 This project is a testament to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into job vacancies and market trends.
 
 
-* For more interesting insights read the ppt file.
+* For more interesting insights read the ppt file 📜 : https://shorturl.at/tCDFS
 
 
 Thank You for visiting my project page. If you have any queries regarding this project feel free to contact me over Linkedin - https://bit.ly/3QLfBEz or you can scan this QR Code to follow me - ![image](https://github.com/amit9690/Road-Accident-Analysis---Excel-Dashboard/assets/129444885/4ea6bcf5-b0ce-4549-be7c-d477d712ca84)
