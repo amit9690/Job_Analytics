@@ -46,7 +46,8 @@ step - 3 :
 
 Demo : 
 
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/f3eb99f5-c27b-4ac2-8c47-a2cd0dab6b33)
+![image](https://github.com/amit9690/Job_Analytics/assets/129444885/db92173d-81b5-459d-8374-cfad5d1d282d)
+
 
 
 Project Impact 📜🔧:
@@ -66,7 +67,7 @@ Conclusion 🚀📈🔍:
 This project is a testament to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into job vacancies and market trends.
 
 
-
+* For more interesting insights read the ppt file.
 
 
 Thank You for visiting my project page. If you have any queries regarding this project feel free to contact me over Linkedin - https://bit.ly/3QLfBEz or you can scan this QR Code to follow me - ![image](https://github.com/amit9690/Road-Accident-Analysis---Excel-Dashboard/assets/129444885/4ea6bcf5-b0ce-4549-be7c-d477d712ca84)
