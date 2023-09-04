@@ -1,4 +1,10 @@
-Project Name : Job Analytics
+Project Overview :
+
+📌 Project Name: Job Analyst
+
+👥 Team Members: Amit Porwal, Madhu Gupta, Shubhum Pathak
+
+🎓 Mentored by: Manish Hemnani
 
 Project Description:
 
@@ -6,7 +12,7 @@ Project Description:
 
 Project Phases:
 
-1. Data Acquisition: The project initiated with the collection of raw data from the Instahyre website. I extract data using BeautifullSoup and selenium libraries in python. This phase involved web scraping techniques to extract job-related information, ensuring the foundation for subsequent analysis was solid.
+1. Data Scraping 🔍: The project initiated with the collection of raw data from the Instahyre website. I extract data using BeautifullSoup and selenium libraries in python. This phase involved web scraping techniques to extract job-related information, ensuring the foundation for subsequent analysis was solid.
 
 Step - 1 :
 
@@ -21,21 +27,21 @@ step - 3 :
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/d8d13a34-26fe-4992-bc55-ea15986cebbe)
 
 
-2. Data Cleaning: In the second phase, meticulous data cleaning procedures were implemented. This step was crucial in enhancing data quality by addressing inconsistencies and errors, thus preparing the dataset for accurate analysis. 
+2. Data Cleaning 🧹: In the second phase, meticulous data cleaning procedures were implemented. This step was crucial in enhancing data quality by addressing inconsistencies and errors, thus preparing the dataset for accurate analysis. 
 
 
-3. Data Preprocessing: The third phase of the project involved data preprocessing techniques. This step included data transformation, feature engineering, and handling missing values, making the dataset more amenable to analysis.
+3. Data Preprocessing 🔧: The third phase of the project involved data preprocessing techniques. This step included data transformation, feature engineering, and handling missing values, making the dataset more amenable to analysis.
 
-4. Data Modeling: To organize and structure the data effectively, the team created three key tables: jobs, company, and details. This data modeling step streamlined the analysis process, enabling efficient extraction of insights.
+4. Data Modeling 📊 : To organize and structure the data effectively, the team created three key tables: jobs, company, and details. This data modeling step streamlined the analysis process, enabling efficient extraction of insights.
 
 * I done step-2, step-3 and step-4 using power query in excel.
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/3353e06a-d192-4a1e-995f-f86e0565b61f)
 
-5. SQL Queries: To extract meaningful information from the structured data, MySQL queries were employed. These queries allowed the team to answer critical questions and discover trends within the job vacancies dataset.
+5. SQL Queries 📈: To extract meaningful information from the structured data, MySQL queries were employed. These queries allowed the team to answer critical questions and discover trends within the job vacancies dataset.
 
 
-6. Excel Dashboard: The culmination of the project was the creation of an Excel dashboard specifically tailored to visualize job vacancies data. This dashboard provided an intuitive and user-friendly interface to explore the project's findings, making it accessible to a wider audience. This dashboard created using pivot table , power query and charts and graphs.
+6. Excel Dashboard 📄: The culmination of the project was the creation of an Excel dashboard specifically tailored to visualize job vacancies data. This dashboard provided an intuitive and user-friendly interface to explore the project's findings, making it accessible to a wider audience. This dashboard created using pivot table , power query and charts and graphs.
 
 
 Demo : 
@@ -43,17 +49,17 @@ Demo :
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/f3eb99f5-c27b-4ac2-8c47-a2cd0dab6b33)
 
 
-Project Impact:
+Project Impact 📜🔧:
 
 "Job Analyst" offers a comprehensive overview of the job market by leveraging data-driven insights. Its potential impact extends to job seekers, employers, and analysts seeking a deeper understanding of employment trends in specific industries or regions.
 
 
-Acknowledgments:
+Acknowledgments 🙏:
 
 We extend our sincere gratitude to Manish Hemnani for his invaluable mentorship and guidance throughout this project. His expertise significantly contributed to the project's success.
 
 
-Conclusion:
+Conclusion 🚀📈🔍:
 
 "Job Analyst" exemplifies the power of data analysis in unraveling intricate patterns within the job market. This collaborative effort by Amit Porwal, Madhu Gupta, and Shubhum underscores the significance of leveraging data for informed decision-making in the ever-evolving world of employment.
 
