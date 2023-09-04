@@ -8,7 +8,7 @@ Project Overview :
 
 Project Description 📁:
 
-"Job Analyst" is a comprehensive data analysis project that aims to provide valuable insights into job vacancies sourced from the Instahyre website, a prominent job portal. This project was conceived and executed by a team of dedicated individuals, including Amit Porwal, Madhu Gupta, and Shubhum, under the expert guidance of Manish Hemnani.
+"Job Analyst" is a comprehensive data analysis project that aims to provide valuable insights into job vacancies sourced from the Instahyre website, a prominent job portal. This project was conceived and executed by a team of dedicated individuals, including Amit Porwal, Madhu Gupta, and Shubhum Pathak, under the expert guidance of Manish Hemnani.
 
 Project Phases:
 
@@ -62,7 +62,7 @@ We extend our sincere gratitude to Manish Hemnani for his invaluable mentorship 
 
 Conclusion 🚀📈🔍:
 
-"Job Analyst" exemplifies the power of data analysis in unraveling intricate patterns within the job market. This collaborative effort by Amit Porwal, Madhu Gupta, and Shubhum underscores the significance of leveraging data for informed decision-making in the ever-evolving world of employment.
+"Job Analyst" exemplifies the power of data analysis in unraveling intricate patterns within the job market. This collaborative effort by Amit Porwal, Madhu Gupta, and Shubhum Pathak underscores the significance of leveraging data for informed decision-making in the ever-evolving world of employment.
 
 This project is a testament to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into job vacancies and market trends.
 
