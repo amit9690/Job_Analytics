@@ -61,13 +61,17 @@ step - 3 :
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/15593924-dd5b-45d3-87e0-c5d8eedce27e)
 
+
 6. Excel Dashboard: The culmination of the project was the creation of an Excel dashboard specifically tailored to visualize job vacancies data. This dashboard provided an intuitive and user-friendly interface to explore the project's findings, making it accessible to a wider audience. This dashboard created using pivot table , power query and charts and graphs.
+
 
 Demo : 
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/f3eb99f5-c27b-4ac2-8c47-a2cd0dab6b33)
 
+
 Other specific insights of this job vacancies dashboard :
+
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/cd273124-781c-4eb3-a784-b9d893a9b770)
 
@@ -94,19 +98,24 @@ Different Pivots created in Backend for required KPIs:
 
 ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/a6b60031-3597-45b1-8dd5-f4b81dc6b243)
 
+
 Project Impact:
 
 "Job Analyst" offers a comprehensive overview of the job market by leveraging data-driven insights. Its potential impact extends to job seekers, employers, and analysts seeking a deeper understanding of employment trends in specific industries or regions.
 
+
 Acknowledgments:
 
 We extend our sincere gratitude to Manish Hemnani for his invaluable mentorship and guidance throughout this project. His expertise significantly contributed to the project's success.
+
 
 Conclusion:
 
 "Job Analyst" exemplifies the power of data analysis in unraveling intricate patterns within the job market. This collaborative effort by Amit Porwal, Madhu Gupta, and Shubhum underscores the significance of leveraging data for informed decision-making in the ever-evolving world of employment.
 
 This project is a testament to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into job vacancies and market trends.
+
+
 
 
 
