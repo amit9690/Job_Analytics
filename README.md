@@ -19,7 +19,8 @@
 
 ## Project Phases:
 
-### 1. Data Scraping 🔍: The project initiated with the collection of raw data from the Instahyre website. I extract data using BeautifullSoup and selenium libraries in python. This phase involved web scraping techniques to extract job-related information, ensuring the foundation for subsequent analysis was solid.
+### 1. Data Scraping 🔍: 
+The project initiated with the collection of raw data from the Instahyre website. I extract data using BeautifullSoup and selenium libraries in python. This phase involved web scraping techniques to extract job-related information, ensuring the foundation for subsequent analysis was solid.
 
 Step - 1 :
 
