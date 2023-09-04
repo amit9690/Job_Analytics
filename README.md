@@ -6,6 +6,13 @@ Project Overview :
 
 🎓 Mentored by: Manish Hemnani
 
+🔧 skills required: Adcance Excel, Python, Mysql, Visualization, BeautifullSoup, Selenium, EDA, Dashboard
+
+📅 Project start Date: 30/08/2023
+
+📅 Project end Date: 03/08/2023
+
+
 Project Description 📁:
 
 "Job Analyst" is a comprehensive data analysis project that aims to provide valuable insights into job vacancies sourced from the Instahyre website, a prominent job portal. This project was conceived and executed by a team of dedicated individuals, including Amit Porwal, Madhu Gupta, and Shubhum Pathak, under the expert guidance of Manish Hemnani.
