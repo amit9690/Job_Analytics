@@ -80,7 +80,8 @@ We extend our sincere gratitude to Manish Hemnani for his invaluable mentorship 
 This project is a testament to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into job vacancies and market trends.
 
 
-* #### __For more interesting insights read the ppt file 📜__ : https://shorturl.at/tCDFS
+* #### __For more interesting insights read the ppt file 📜__ : ![image](https://github.com/amit9690/Job_Analytics/assets/129444885/92310662-1ce9-45b2-b9e2-1ae60c24f459)
+
 
 
 Thank You for visiting my project page.
