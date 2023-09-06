@@ -6,7 +6,7 @@
 
 🎓 Mentored by: Manish Hemnani
 
-🔧 skills required: Advance Excel, Python, Mysql, Visualization, BeautifullSoup, Selenium, EDA, Dashboard
+🔧 skills required: Advance Excel, Python, Mysql, Visualization, BeautifulSoup, Selenium, EDA, Dashboard
 
 📅 Project start Date: 30/08/2023
 
@@ -20,7 +20,7 @@
 ## Project Phases:
 
 ### 1. Data Scraping 🔍:
-The project initiated with the collection of raw data from the Instahyre website. I extract data using BeautifullSoup and selenium libraries in python. This phase involved web scraping techniques to extract job-related information, ensuring the foundation for subsequent analysis was solid.
+The project initiated with the collection of raw data from the Instahyre website. I extract data using BeautifulSoup and selenium libraries in python. This phase involved web scraping techniques to extract job-related information, ensuring the foundation for subsequent analysis was solid.
 
 ##### Step - 1 :
 
