@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fjob-analysis-methods-tharwat-mohamed-ayad&psig=AOvVaw3wpK8jZI8xqHoUr6RK7sPe&ust=1697010258171000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiNr_796oEDFQAAAAAdAAAAABAE
+
+
 # Project Overview 👩🏻‍💻📋🎯 :
 
 📌 Project Name: Job Analyst
