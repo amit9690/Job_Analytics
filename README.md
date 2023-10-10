@@ -79,7 +79,7 @@ The final step involves organizing and storing the extracted data in a structure
 In summary, these three steps outline the process of extracting job data from the Instahyre website, transforming it into a structured format, and exporting it for analysis and exploration.
 
 
-### 2. Data Cleaning 🧹: 
+### <a name = 'project-overview'></a>2. Data Cleaning 🧹: 
 
 * Performed data cleaning tasks to enhance data quality and consistency.
 * Addressed missing values, duplicates, and outliers in the scraped data to prevent skewed analysis.
