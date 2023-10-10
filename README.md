@@ -1,3 +1,10 @@
+# Job_Analyst_Project
+![Untitled design](https://github.com/amit9690/Job_Analytics_Instahyre_job_finder/assets/129444885/2764ed8d-4d9c-470e-9a2e-3d815cfc6dc5)
+
+Unlocking the Power of Data: As a Job Analyst, I dive deep into the world of employment trends and insights.
+
+My mission? To decode the job market's secrets, helping individuals find their dream careers and businesses make informed decisions. Join me on this data-driven journey, where numbers come to life, and opportunities are waiting to be discovered. Explore my projects, where I transform raw data into actionable insights, one job at a time. Let's shape the future of work together!
+
 
 
 # Project Overview 👩🏻‍💻📋🎯 :
