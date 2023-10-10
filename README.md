@@ -28,6 +28,10 @@ My mission? To decode the job market's secrets, helping individuals find their d
 
 ## Project Phases:
 
+![Untitled design (2)](https://github.com/amit9690/Job_Analytics_Instahyre_job_finder/assets/129444885/0d548263-62fe-4e86-9099-64fd58b22b7f)
+
+
+
 ### 1. Data Scraping 🔍:
 
 * Utilized Python libraries like BeautifulSoup and Selenium to programmatically access web pages and extract job data from the Instahyre website.
