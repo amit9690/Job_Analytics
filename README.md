@@ -1,4 +1,4 @@
-# Job_Analyst_Project
+![image](https://github.com/amitporwal01/Job_Analytics_Instahyre_job_finder/assets/129444885/19b73efe-ff33-4af9-b3a5-007ab3c96a04)# Job_Analyst_Project
 ![Untitled design](https://github.com/amit9690/Job_Analytics_Instahyre_job_finder/assets/129444885/2764ed8d-4d9c-470e-9a2e-3d815cfc6dc5)
 
 Unlocking the Power of Data: As a Job Analyst, I dive deep into the world of employment trends and insights.
@@ -50,8 +50,21 @@ In the initial phase of this project, I initiate by importing key Python librari
 
 * **Time:** Time is used for adding time-related delays in the web scraping process, ensuring that web pages load properly before data extraction.
 
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/dd6acc13-a960-4912-a224-d59a0fa96da4)
+```
+from bs4 import BeautifulSoup
+from selenium import webdriver
+import time
+import pandas as pd
 
+```
+```
+url = "https://www.instahyre.com/jobs-in-india"
+#url = "https://www.instahyre.com/search-jobs?company_size=0&isLandingPage=true&job_type=0&location=Anywhere+in+India&search=true"
+driver = webdriver.Chrome()
+driver.get(url)
+time.sleep(5)
+
+```
 #### Step 2: Data Extraction with Selenium
 
 In the second step, I leverage the Selenium library to perform web scraping on the Instahyre website.
@@ -62,7 +75,47 @@ In the second step, I leverage the Selenium library to perform web scraping on t
 
 * Selenium's capabilities in simulating user interactions, such as clicking buttons and filling forms, prove invaluable in navigating the site and retrieving data seamlessly.
 
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/59170331-6e2c-4644-b524-72ed27dbbd67)
+```
+data = []
+a = 30
+while (a>0):
+    html = driver.page_source
+    soup = BeautifulSoup(html, "html.parser")
+    view_link_div = soup.find_all('div',class_='opportunity-action-links')
+
+    for i in view_link_div:
+
+        link = i.find('a',href=True)
+        driver.get(link['href'])
+        time.sleep(2)
+        s_page = BeautifulSoup(driver.page_source,"html.parser")
+        c_info = s_page.find('div',class_='company-info')
+        
+        company_name = s_page.find('h2',class_='company-name').text
+        
+        div_info = c_info.find_all('div')
+        f_year = div_info[0].text
+        n_employee = div_info[1].text
+        
+        location = s_page.find('div',class_ = 'job-locations').find_all('span')[0].text
+        designation = s_page.find('div',class_='profile-info').find('h1').text
+        hr_name = s_page.find('span',class_='rec-name').text
+        
+        try:
+            skills =','.join([x.text for x in  s_page.find('ul',{'id':'job-skills-description'}).find_all('li')])
+        except:
+            print(str(a)+' / '+company_name)
+            
+        data.append([company_name,f_year,n_employee,location,designation,hr_name,skills])
+        driver.execute_script('history.back()')
+        time.sleep(1)
+        
+    
+    driver.execute_script('$(".pagination li:last").click()')
+    time.sleep(3)
+    a-=1
+
+```
 
 #### Step 3: Data Wrangling and Export
 
@@ -74,7 +127,13 @@ The final step involves organizing and storing the extracted data in a structure
 
 * To make the data accessible and shareable, I export the DataFrame to a CSV (Comma-Separated Values) format. This format is commonly used for storing and exchanging structured data, making it suitable for analysis using various data analysis tools and languages.
 
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/d8d13a34-26fe-4992-bc55-ea15986cebbe)
+
+```
+df = pd.DataFrame(data , columns = ['name','estab_year','employees_count','location','designation','hr_name','skills'])
+```
+```
+df.to_csv('C:\\Users\\User\\Desktop\\company.csv')
+```
 
 In summary, these three steps outline the process of extracting job data from the Instahyre website, transforming it into a structured format, and exporting it for analysis and exploration.
 
