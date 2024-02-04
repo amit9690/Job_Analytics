@@ -15,7 +15,7 @@ My mission? To decode the job market's secrets, helping individuals find their d
 
 🎓 Mentored by: Manish Hemnani
 
-🔧 skills required: Advance Excel, Python, Mysql, Visualization, BeautifulSoup, Selenium, EDA, Dashboard
+🔧 skills required: Power BI, Python, Mysql, Visualization, BeautifulSoup, Selenium, EDA, Dashboard
 
 📅 Project start Date: 30/08/2023
 
@@ -89,7 +89,7 @@ In summary, these three steps outline the process of extracting job data from th
 
 ### 3. Data Preprocessing 🔧: 
 
-* Leveraged Excel's Power Query functionality to extract data from other columns, creating new derived features.
+* Leveraged Power Query functionality to extract data from other columns, creating new derived features.
 * Data transformation, particularly the extraction of sector information from the designation column to enable deeper analysis based on industries.
 * Combined and reshaped data from various sources to prepare it for modeling.
 
@@ -101,7 +101,7 @@ This phase involved the creation of key tables to structure the data for effecti
 * Employing relational database concepts to establish connections between tables, enabling complex queries and comprehensive analysis.
 * Leveraging SQL to create and manage these tables, ensuring data integrity and consistency.
 
-**__I completed steps 2, 3, and 4 by using Power Query Feature in Excel.__**
+**__I completed steps 2, 3, and 4 by using Power Query Feature in Power BI.__**
 
 ### 5. SQL Queries 📈: 
 
@@ -112,11 +112,11 @@ We utilized SQL queries for advanced data manipulation and retrieval:
 * Utilizing SQL functions for data transformations and calculations, streamlining data processing tasks.
 
 
-### 6. Excel Dashboard 📄: 
+### 6. Power BI Dashboard 📄: 
 
-Finally, we leveraged Excel to create an interactive and visually informative dashboard:
+Finally, we leveraged Power BI to create an interactive and visually informative dashboard:
 
-* Developing Excel worksheets to present data insights in a user-friendly format.
+* Developing Power BI worksheets to present data insights in a user-friendly format.
 * Utilizing charts, graphs, and pivot tables to visualize trends and patterns.
 * Incorporating slicers and filters for user interaction, enabling dynamic exploration of data.
 * Ensuring real-time data updates through data connections, maintaining the dashboard's relevance.
@@ -124,7 +124,8 @@ Finally, we leveraged Excel to create an interactive and visually informative da
 
 #### Demo : 
 
-![image](https://github.com/amit9690/Job_Analytics/assets/129444885/db92173d-81b5-459d-8374-cfad5d1d282d)
+![image](https://github.com/amitporwal01/Job_Analytics_Instahyre_job_finder/assets/129444885/14ed6684-cbbf-4ef9-a185-bc1a897613c1)
+
 
 
 
