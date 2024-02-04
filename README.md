@@ -1,4 +1,4 @@
-![image](https://github.com/amitporwal01/Job_Analytics_Instahyre_job_finder/assets/129444885/19b73efe-ff33-4af9-b3a5-007ab3c96a04)# Job_Analyst_Project
+# Job_Analyst_Project
 ![Untitled design](https://github.com/amit9690/Job_Analytics_Instahyre_job_finder/assets/129444885/2764ed8d-4d9c-470e-9a2e-3d815cfc6dc5)
 
 Unlocking the Power of Data: As a Job Analyst, I dive deep into the world of employment trends and insights.
@@ -38,7 +38,7 @@ My mission? To decode the job market's secrets, helping individuals find their d
 * Employed web scraping techniques to navigate through multiple web pages, interact with HTML elements, and capture relevant job information.
 * Ensured data integrity by handling issues such as page loading delays, element identification, and handling dynamic web content using Selenium.
 
-#### Step 1: Import Essential Libraries
+<code> <b>Step 1: Import Essential Libraries</b> </code>
 
 In the initial phase of this project, I initiate by importing key Python libraries: BeautifulSoup, Selenium, Pandas, and Time.
 
@@ -65,7 +65,7 @@ driver.get(url)
 time.sleep(5)
 
 ```
-#### Step 2: Data Extraction with Selenium
+<code> <b>Step 2: Data Extraction with Selenium</b> </code>
 
 In the second step, I leverage the Selenium library to perform web scraping on the Instahyre website.
 
@@ -117,7 +117,7 @@ while (a>0):
 
 ```
 
-#### Step 3: Data Wrangling and Export
+<code> <b>Step 3: Data Wrangling and Export</b> </code>
 
 The final step involves organizing and storing the extracted data in a structured manner.
 
