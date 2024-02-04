@@ -162,16 +162,8 @@ This phase involved the creation of key tables to structure the data for effecti
 
 **__I completed steps 2, 3, and 4 by using Power Query Feature in Power BI.__**
 
-### 5. SQL Queries 📈: 
 
-We utilized SQL queries for advanced data manipulation and retrieval:
-
-* Constructing complex SQL queries to extract specific data subsets and perform aggregations.
-* Implementing JOIN operations to merge data from multiple tables, facilitating comprehensive analysis.
-* Utilizing SQL functions for data transformations and calculations, streamlining data processing tasks.
-
-
-### 6. Power BI Dashboard 📄: 
+### 5. Power BI Dashboard 📄: 
 
 Finally, we leveraged Power BI to create an interactive and visually informative dashboard:
 
