@@ -206,7 +206,7 @@ We extend our sincere gratitude to Manish Hemnani for his invaluable mentorship 
 
 
 
-#### [__For more interesting insights read the ppt file 📜__ ](https://bit.ly/3PsKIDU)
+#### [__For more interesting insights read the ppt file 📜__ ](https://docs.google.com/presentation/d/1tLzVTim2mfQy13tFnIYCsx1ZONcmaqqN/edit?usp=sharing&ouid=104935971674203163365&rtpof=true&sd=true)
 
 
 
