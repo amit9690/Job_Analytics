@@ -173,8 +173,6 @@ Finally, we leveraged Power BI to create an interactive and visually informative
 * Ensuring real-time data updates through data connections, maintaining the dashboard's relevance.
 
 
-#### Demo : 
-
 ![image](https://github.com/amitporwal01/Job_Analytics_Instahyre_job_finder/assets/129444885/14ed6684-cbbf-4ef9-a185-bc1a897613c1)
 
 
