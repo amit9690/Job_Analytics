@@ -38,7 +38,7 @@ My mission? To decode the job market's secrets, helping individuals find their d
 * Employed web scraping techniques to navigate through multiple web pages, interact with HTML elements, and capture relevant job information.
 * Ensured data integrity by handling issues such as page loading delays, element identification, and handling dynamic web content using Selenium.
 
-<code> <b>Step 1: Import Essential Libraries</b> </code>
+#### <code> <b>Step 1: Import Essential Libraries</b> </code>
 
 In the initial phase of this project, I initiate by importing key Python libraries: BeautifulSoup, Selenium, Pandas, and Time.
 
@@ -65,7 +65,7 @@ driver.get(url)
 time.sleep(5)
 
 ```
-<code> <b>Step 2: Data Extraction with Selenium</b> </code>
+#### <code> <b>Step 2: Data Extraction with Selenium</b> </code>
 
 In the second step, I leverage the Selenium library to perform web scraping on the Instahyre website.
 
