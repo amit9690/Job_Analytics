@@ -1,4 +1,4 @@
-# Job_Analyst_Project
+# Job Analyst
 ![Untitled design](https://github.com/amit9690/Job_Analytics_Instahyre_job_finder/assets/129444885/2764ed8d-4d9c-470e-9a2e-3d815cfc6dc5)
 
 Unlocking the Power of Data: As a Job Analyst, I dive deep into the world of employment trends and insights.
